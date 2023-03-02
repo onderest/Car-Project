@@ -1,6 +1,6 @@
 # School project - Autonomous car - ELA21, YRGO
 
-![alt text](https://github.com/onderest/Car-Project/blob/main/fig1.png?raw=true)
+![alt text](https://github.com/onderest/Car-Project/blob/main/Fig1.png?raw=true)
 Fig.1 - Our two competing cars and trophy, first and second place!!! 
 
 ## Introduction
