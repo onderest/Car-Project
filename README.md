@@ -22,7 +22,7 @@ We first wrote some test codes just to se that we could get the critical parts t
 
 ![alt text](https://github.com/onderest/Car-Project/blob/main/Fig2.png?raw=true)
 
-Fig.2 - Curcuit board for H bridge and Arduino.
+Fig.2 - Platform and Curcuit board for H bridge and Arduino.
 
 When the car was complete and ready for our first test, it worked, but not good... The servo was not working properly and jumping all over the place. This was due to two or three reasons, our code, and lack of current, and maybe that the Arduino was to slow to control everything at once. The servo was wired thru the Arduino but needed about 1A, nowhere near what the Arduino could output. Our solution was a 5V LDO directly from the battery to the Servo. The secound problem was with the code, this was harder and as time was running out and frustration getting higher, we descided to write an identicle code in C, and it worked perfectly! The problem was that Destructors in our C++ code was called during at times and we couldn't figure out why, nor could our teacher.
 
@@ -39,3 +39,5 @@ Now we would have one board for the motor and forward analog sensor for forward/
 Fig.4 - Left picture is the secound card for the first car to control the servo, right picture is one card for the new car.
 
 After theese changes our cars worked perfectly and we could spend the last 2 weeks optimizing the cars for the track, trying diffrent motors and angels for the sensors. And ofcourse adjusting PID for the steering.
+
+And on race day we set a new all time lap record with 18 laps and ofcourse taking first and secoond place means this was not just luck! very happy with the result and our cars after all the time we spent on this project!
