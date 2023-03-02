@@ -4,6 +4,9 @@
 
 Fig.1 - Our two competing cars and trophy, first and second place!!! 
 
+Detailed report in swedish.
+https://github.com/onderest/Car-Project/blob/main/Autonom%20bil.pdf
+
 ## Introduction
 
 Every year YRGO holds a competition as a school project where the two electronics engineering classes are split in groups four groups for each class where each group is to design an autonomous car. The car is meant to race three other cars at once on a track where the one who completes to most laps in 3 minutes is the winner. There are two groups in the group stage and then quarter, semi, and finals. So, a lot of races which means a lot of things can go wrong!
